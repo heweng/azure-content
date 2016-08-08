@@ -131,7 +131,7 @@ In the following tutorials, you will learn about [creating and managing logins a
 | [Create a database-level firewall rule using Transact-SQL](sql-database-configure-firewall-settings-tsql.md#database-level-firewall-rules) | In this tutorial, you will learn how to create a database-level firewall rule using Transact-SQL.|
 | [Manage server-level firewall rules using Transact-SQL](sql-database-configure-firewall-settings-tsql.md#manage-server-level-firewall-rules-through-transact-sql) | In this tutorial, you will learn how to manage an Azure SQL Database server-level firewall using Transact-SQL.|
 | [Manage server-level firewall rules using PowerShell](sql-database-configure-firewall-settings-powershell.md#manage-firewall-rules-using-powershell) | In this tutorial, you will learn how to manage an Azure SQL Database server-level firewall using PowerShell.|
-| [Manage server-level firewall rules using the REST API](sql-database-configure-firewall-settings-rest.md#manage-firewall-rules-using-the-service-management-rest-api) | In this tutorial, you will learn how to manage an Azure SQL Database server-level firewall using the RESET API.|
+| [Manage server-level firewall rules using the REST API](sql-database-configure-firewall-settings-rest.md#manage-firewall-rules-using-the-service-management-rest-api) | In this tutorial, you will learn how to manage an Azure SQL Database server-level firewall using the REST API.|
 | [Connect to Azure SQL Database using a server-level principal login](sql-database-get-started-security.md#connect-to-azure-sql-database-using-a-server-level-principal-login)| In this tutorial, you learn how to connect to Azure SQL Database using a server-level principal login.|
 | [Granting database access to a login](sql-database-manage-logins.md#granting-database-access-to-a-login() | In this tutorial, you learn how to grant database access to a server-level login.|
 | [Create new database user using SSMS](sql-database-get-started-security.md#create-new-database-user-using-ssms) | In this tutorial, you learn how to create a new database user in an existing database using SSMS.|
@@ -147,7 +147,7 @@ In the following tutorials, you will learn about [securing Azure SQL Database da
 | Tutorial  | Description  |
 |---|---|---|
 | [Enable threat detection for your database using the Azure portal](sql-database-threat-detection-get-started.md#set-up-threat-detection-for-your-database) | In this tutorial, you learn how to set up threat detection in the Azure portal for your database.|
-| [Secure sensitive data uisng Always Encrypted ](sql-database-always-encrypted-azure-key-vault.md) | In this tutorial, you will use the Always Encrypted wizard to secure sensitive data in an Azure SQL database.|
+| [Secure sensitive data using Always Encrypted ](sql-database-always-encrypted-azure-key-vault.md) | In this tutorial, you will use the Always Encrypted wizard to secure sensitive data in an Azure SQL database.|
 | [Secure senstive data using transparent data encryption](https://msdn.microsoft.com/library/dn948096.aspx)| In this tutorial, you learn how to use transparent data encryption to secure senstive data.|
 | [Encrypt a column of data](https://msdn.microsoft.com/library/ms179331.aspx)| In this tutorial, you learn how to encrypt a column of data using Transact-SQL.|
 | [Set up dynamic data masking](sql-database-dynamic-data-masking-get-started.md#set-up-dynamic-data-masking-for-your-database-using-the-azure-portal)  | In this tutorial, you learn how to set up dynamic data masking for your Azure SQL database. |
